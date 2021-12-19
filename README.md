@@ -1,14 +1,1 @@
-# unit-plan-unit-zero-cs-basic-skills
-This is a unit zero (Basic Skills) for a 7th grade Introduction to Computer Science year long course.  It will give an overview of the following topics:  history/evolution of computers, computing languages, hardware, software, memory, processing, basic networking, and universal programming, keyboarding and shortcuts .  The purpose is to provide students with foundational skills for middle school computer science classes.  
-
-Lesson Topics
-What is a computer? How have computers changed over time? What are the basic components? How do they work?  
-What are coding languages? What are the different languages used for? How have computer languages changed over time? 
-Universal programming - focus on vocabulary and examples
-Variables
-Conditionals
-Loops
-Events
-Procedures
-Keyboarding and shortcuts
-Digital literacy/etiquette/safety
+Overview: This is a 4 week unit zero, basic skills, for a 7th grade Introduction to Computer Science course.  It will give an overview of the following topics:  history/evolution of computers;  computing languages; how computers work:  hardware, software, memory, processing;  universal programming concepts and keyboarding and shortcuts .  The purpose is to provide students with foundational skills for a middle school computer science class because there is a disconnect between students and past and present technology and how we got here. Also, students have various exposures to computer education so this unit will help to build background knowledge.
